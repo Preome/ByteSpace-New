@@ -71,14 +71,9 @@ I developed a full-featured, pixel-accurate online learning platform based on th
 
 ## Special Instructions to Review My Work
 
-1. **Sticky Prototype Screen Navigator**:
-   - Pinned at the very top of the application is a black bar labeled **"Figma Prototype Screens"**. You can use these buttons at any time to instantly jump between all 6 screens:
-     - 1. Home (6 Sections)
-     - 2. Course Details
-     - 3. Creator Profile
-     - 4. Search & Filter
-     - 5. Login Page
-     - 6. Signup Page
+1. **Seamless Application Navigation**:
+   - Navigate freely across the application using the main navigation bar (Home, Explore/Courses, Search, Sign In, Sign Up), footer links, course cards, and creator profile links.
+
 2. **Course Card to Detail Image Consistency**:
    - Click on any course card from the Home Page or Search Page. The video preview image inside the Course Details hero matches the exact preview thumbnail shown on the card.
 3. **Interactive Video Preview**:
