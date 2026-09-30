@@ -1,0 +1,6 @@
+{
+  "name": "ByteSpace - Online Learning Platform",
+  "description": "Discover your passion and build your skills with hundreds of interactive courses on ByteSpace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
